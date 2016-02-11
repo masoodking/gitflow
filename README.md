@@ -8,3 +8,5 @@ second change in develop->feature2 branche
 2
 ------
 3
+-----
+feature 3
