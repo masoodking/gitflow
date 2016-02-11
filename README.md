@@ -12,3 +12,5 @@ second change in develop->feature2 branche
 feature 3
 -----
 final feature
+-----
+feature 4
