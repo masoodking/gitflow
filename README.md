@@ -6,3 +6,5 @@ first change in develop->feature2 branche
 second change in develop->feature2 branche
 1
 2
+------
+3
